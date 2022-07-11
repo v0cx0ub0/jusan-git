@@ -45,3 +45,4 @@ int main() {
 | Telegram | [Ссылка](https://github.com/)|   5 минту     |
 
 
+username.sh outputs my username
